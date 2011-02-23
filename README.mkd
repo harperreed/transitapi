@@ -1,8 +1,9 @@
 Chicago "unofficial" Transit API
 ------
 
-Check out the [Wiki](https://github.com/harperreed/transitapi/wiki)
-
+Check out the [Wiki](https://github.com/harperreed/transitapi/wiki)  
+Add [issues](https://github.com/harperreed/transitapi/issues) if you have them   
+ 
 
 # List of endpoints
 
