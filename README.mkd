@@ -1,0 +1,23 @@
+Chicago "unofficial" Transit API
+------
+
+Chicago's Transit Authority recently released a couple webapps that allow people to track bus locations and routes. It is awesome. This is the documentation of the API they have exposed to power their apps.
+
+This documentation is NOT affiliated with CTA, Chicago or anything else official.
+
+I have created a proxy for this API. It caches requests, and should be a LOT faster than accessing the API directly. The proxy is: http://chicago.transitapi.com.
+
+PLEASE USE THE PROXY TO ACCESS THIS API IN YOUR APPLICATIONS.
+
+To use the proxy, you will just need to replace ctabustracker.com with chicago.transitapi.com in the urls for your requests.
+
+I will be adding various other API helper endpoints to chicago.transitapi.com. stay tuned.
+
+If you have questions, fixes or additions - email harper@nata2.org. If you are bored, check out my blog.
+
+Subscribe to the mailing list to stay up to date: http://groups.google.com/group/transitapi 
+
+API Info:
+
+CTA Bustracker API - the bus tracker hacked API. 
+Chicago Transit API - various misc endpoints
