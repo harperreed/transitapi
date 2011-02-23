@@ -12,7 +12,7 @@ Add [issues](https://github.com/harperreed/transitapi/issues) if you have them
 ### getRoutePoints
 
 **Description**: Returns latitude/longitude, stop IDs, and stop names for bus stops along a particular route.  
-**Proxy Endpoint**: [[http://chicago.transitapi.com/bustime/map/getRoutePoints.jsp]]  
+**Proxy Endpoint**: [http://chicago.transitapi.com/bustime/map/getRoutePoints.jsp]  
 **Original Endpoint**: http://ctabustracker.com/bustime/map/getRoutePoints.jsp  
 **Required**: Route  
 **Example Request**: [[http://chicago.transitapi.com/bustime/map/getRoutePoints.jsp?route=49]]  
